@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kamguemalbert@yahoo.fr
+	name = kamguemalbert@yahoo.fr
